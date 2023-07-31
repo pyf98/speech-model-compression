@@ -6,6 +6,8 @@ This repo presents a collection of recent papers related to speech model compres
 
 - [[INTERSPEECH]()] [[arXiv](https://arxiv.org/abs/2306.01385)] Task-Agnostic Structured Pruning of Speech Representation Models
 - [[INTERSPEECH]()] [[arXiv](https://arxiv.org/abs/2305.17651)] [[code](https://github.com/pyf98/DPHuBERT)] DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models
+- [[ICASSP](https://ieeexplore.ieee.org/document/10094300)] [[arXiv](https://arxiv.org/abs/2209.05735)] Learning ASR pathways: A sparse multilingual ASR model
+- [[ICASSP](https://ieeexplore.ieee.org/document/10096662)] [[arXiv](https://arxiv.org/abs/2303.07624)] I3D: Transformer Architectures with Input-Dependent Dynamic Depth for Speech Recognition
 - [[ICASSP](https://ieeexplore.ieee.org/document/10095780)] [[arXiv](https://arxiv.org/abs/2302.14132)] Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding
 - [[ICASSP](https://ieeexplore.ieee.org/document/10095480)] [[arXiv](https://arxiv.org/abs/2302.09437)] RobustDistiller: Compressing Universal Speech Representations for Enhanced Environment Robustness
 - [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096445)] [[arXiv](https://arxiv.org/abs/2302.12757)] Ensemble Knowledge Distillation of Self-Supervised Speech Models

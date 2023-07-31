@@ -13,6 +13,7 @@ This repo presents a collection of recent papers related to speech model compres
 
 ## 2022
 
+- [[SLT](https://ieeexplore.ieee.org/document/10022446)] [[arXiv](https://arxiv.org/abs/2207.11906)] Learning a Dual-Mode Speech Recognition Model via Self-Pruning
 - [[INTERSPEECH](https://www.isca-speech.org/archive/interspeech_2022/wang22t_interspeech)] [[arXiv](https://arxiv.org/abs/2203.15610)] [[code](https://github.com/mechanicalsea/lighthubert)] LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT
 - [[INTERSPEECH](https://www.isca-speech.org/archive/interspeech_2022/ashihara22_interspeech.html)] [[arXiv](https://arxiv.org/abs/2207.06867)] Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models
 - [[INTERSPEECH](https://www.isca-speech.org/archive/interspeech_2022/lee22p_interspeech.html)] [[arXiv](https://arxiv.org/abs/2207.00555)] [[code](https://github.com/glory20h/FitHuBERT)] FitHuBERT: Going Thinner and Deeper for Knowledge Distillation of Speech Self-Supervised Learning
